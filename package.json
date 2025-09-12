@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "croxydb": "^0.0.26",
+    "discord.js": "^15.0.0-dev.1752667557-9ff04820b"
+  }
+}
