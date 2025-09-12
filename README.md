@@ -14,7 +14,7 @@ Discord sunucu etiketi (guild tag) takip sistemi ile çalışan bir Discord botu
 
 1. Projeyi klonlayın:
 ```bash
-git clone <repository-url>
+git clone https://github.com/hasbutcu/vsc-guild-tag
 cd vsc-guild-tag
 ```
 
